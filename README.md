@@ -1,13 +1,12 @@
 # Hello! I'm Dorize!
 
-## I am mainly a Minecraft developer using SkUnity!
-## I've been working on some Python! So keep updated on my projects!
+## I am mainly a Minecraft developer using SkUnity! <br> I've been working on some Python! So keep updated on my projects!
 
 ```vb
 options:
-		red: &c&l
-        blue: &9&l
-        prefix: &x&5&3&9&8&b&e&lDorize
+	red: &c&l
+	blue: &9&l
+	prefix: &x&5&3&9&8&b&e&lDorize
 
 command dorize:
 	trigger:
