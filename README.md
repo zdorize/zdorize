@@ -1,4 +1,10 @@
-# Hello! I'm Dorize!
+<div align="right">
+	<a href="https://discord.com/users/586541508132470805">
+		<img align='right' src="https://lanyard.cnrad.dev/api/586541508132470805?borderRadius=30px&animated=true"/>
+	</a>
+</div>
+
+# Hello I'm Dorize
 
 ## I am mainly a Minecraft developer using SkUnity! <br> I've been working on some Python! So keep updated on my projects!
 
@@ -23,5 +29,5 @@ command dorize:
 ## 📂 Other
 
 <p>
- <img src="https://komarev.com/ghpvc/?username=zdorize&color=blue"/>
+ <img src="https://komarev.com/ghpvc/?username=zdorize&color=blue">
 </p>
